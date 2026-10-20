@@ -8,3 +8,5 @@ powershell "irm https://gist.githubusercontent.com/wazbeer/b749b171a50e86eb152a8
 ```
 
 in order for it to show image, for proper use you should upload your image into github and copy RAW link to it
+
+uses gist from https://gist.github.com/wazbeer/b749b171a50e86eb152a893101ec68ea for work
